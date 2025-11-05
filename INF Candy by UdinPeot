@@ -1,1 +1,394 @@
-local a,b=string,table;local c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u=a.char,a.sub,a.gsub,a.find,b.concat,b.insert,math.floor,1,1,256,{},{},{},{},0,1,0,"BRUH|<of`tj3m`?840jKm`tp.<xWv``^)<n}e`t?nZ(-w`?M%0!74`tUy<xW;`t+m<n9n`t(h?xNJ`t/368#M`t+m<(p:`tolZ`/2`?1f`((]`?*eDN$^`6[9DPOJ``1?``tP`tK#Z<tk`tLVZ`Zu`6E]DV&+`tBgDOGl`/t2D`4q`tX!08y!`6[90jK.`t}EDVr+`<a66*}!`<o)=OKQ`<e?tD?t`0iYD`Do`/BR0!I0`t.@0*EY`/N`?xNn`6:x<(#Y`tJ(Z<t*`tX!0dJ8`6:xZ<tL`t?n0!70`6RSVdd<`<Yg<i>)`t<Wt@]v`6:x<OQ[`t/l0D4_`tX!t@]Y`6:x0{|{`t.@t@]e`6:x0dc@`t+mt@]&`6:x0@q:`t(ht@Q``tlrt@Q?`6fi<+~d`t4z0D=:`D:k3OW0`tol<(#I`D#U<rMR`3Hu3O2r`t4(0jQe`Di^0*L7`?aN<<tk`t4(Z`Z8`/;z/{u=`//FD`4K`?AH0*8=`0+?t@Qx`0EsDiaj`6:xZna``4el^ObD`leHt@]m`4xVG{%q`6D*45.z`?w/=N@?`6$PV@mJ`?R`DPf#`6!-t8ds`t)LtD6J`Zq$=C7L`6$P=`=O`6ZBZrPR`6>t48-]`6iq4dz(`t)LDN$b`t26Zr^:`t@s0j]}`/N`4/e^`tLV<xWc`tK#td>D`t>)0D=,`?=>DrZ9`tX!DPfA`?3/=+yE`tK#VjGG`6ZBDPfx`6j[V5:$`?M%V/rL`tlT<n9i`?AF4*9r`?eNZi(s`t_KZ(i8`=ot=r3l`?`uV@m8`tJ(4*[8`?M%Z+Aj`t26D+o[``rQ=n!Z`6$Pt/j>`tu*6{xi`Vq%?xWE`tlTV*a9`?OwQjUf`t)L0D=#`?G5=OKQ`g(0DPfp`6W&4*[X`6$PD+w.`6y0<<6?`?w/ZNvF`^ew0dJ7`?AF/3?>`KdF0!73`6!-0K)7`?NU6Kuj`?Ow4{x%`6$P4/e6`?d;VjXL`?R`<<`@`?OwZ<tc`6PYV8o4`t)L=n!K`?-2Zr^m`6VL05}L`0@i]r2f`?eN=+y|`?AF=`=u`G%k=<DH`tySDN$O``rQt8d#`6V><(-f`/F6V@BK`t^H4D6S``rQ=O]6`DzF<+~)`GsK<<6P`t+m<Ns;`D[23iiL`DcdDPf!`tk_=VS(`K~GZCxm`gS{t*}9`tk_V!ni``rQt8io`]u%<<61`];Pl{%Q`]ADZi,g`Qnf=nES`]1^K8xL`t<Wt52h`?=>4DD``/9=VDDi`t)LV5:B`?aX/5LO`]/9=`3c``2Mtd8T`K8.0jgz`t_Q4!AH`K3UV@B^`=otDN$p`VZ4Mncp`?1f=C7y`?Fb6jMk`]sZt{Fm`^xpZ+AI`4;_P*-/`4w?=C5t`?w/4d;)`?C|DN$o`t/MtK@x`DiGQ]ZQ`P@!QdHS`QlX0D=2`?=>=`=u`6$P4D?E`6~j0D=b`?,AZONR`Gb6<Pe:`Q61MxL/`GXHDi,m`3VSZ<tp`6[+tK@}`t}ED(c!`t_K4D?C`6>t45:/`0}K0do2`t/308wo`B1)X<XB`Q>G3rQX``rQ<C|o`mZW<rlz`gVI<P%9`?C|=rg(`X8K<Ns[`=+PZOmN`6Z24@X9`Bdc4{vo`BxgKDQ|`?x]?n9<`mv|V@mH`?NUZi(0`?AFVjX*`gkG4*8$`?G5DPfx`XIh4D6$`?AF0@2-`0(L4@X%`gfu=`Pj`?G_t/YE`m#z<(#S`6$P=+y(`6y0=C7e`?eN4{xq`/Ln4jP0`67cDnU2``L]68-@`^8E<OQH`t/3ZCH%`GO?0/Si`t?n0K);`tK#ZNOt`?;O=idA`?YaZrP(`?q^gr{>`6~jZPTF`Go(/K1O`N<8<rMl`t>)Di(K`Zx|t8d$`tol]ik<`BN90!I5`t_QDC7=`G<ntt1n`?-.D+w^`tySV8o_`G|}V!I{`Xe}VjB/`q@f<O.#``<E^CYY``}i`Ns?`NrN`x.+`{Wu4!5I`6V;D<D*`/9=t/Y)`t2D<xWy`q/lZrP%`6VLZ`3*`G1{VDDw`?w/=OKJ`?NUD+ob`?`f<(y(`DZP0K)8`tK#K8xV`t(5V5ED`tBg43`g`?*eDPO@`6figik0`?q^<rP?`Qm;=C7b`?YaX`WG`t/3tK@v`^!t?CF2`t?n<+7v`Vf}Zxb^``ke?<V]`m#,?(wd`UwF<P%Q`ViVQd$$`C,>?rKU`=X{DCh&`{V:giyG`
+
+_G.Auto = false
+_G.Speed = 0.05 -- Default speed
+
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Players = game:GetService("Players")
+local TweenService = game:GetService("TweenService")
+local LocalPlayer = Players.LocalPlayer
+local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
+
+-- Buat ScreenGui
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "InfCandyGUI"
+ScreenGui.ResetOnSpawn = false
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ScreenGui.Parent = PlayerGui
+
+-- Frame Utama
+local MainFrame = Instance.new("Frame")
+MainFrame.Name = "MainFrame"
+MainFrame.Size = UDim2.new(0, 380, 0, 300)
+MainFrame.Position = UDim2.new(0.5, -190, 0.5, -150)
+MainFrame.BackgroundColor3 = Color3.fromRGB(25, 25, 35)
+MainFrame.BorderSizePixel = 0
+MainFrame.Active = true
+MainFrame.Draggable = true
+MainFrame.Parent = ScreenGui
+
+-- Corner untuk MainFrame
+local MainCorner = Instance.new("UICorner")
+MainCorner.CornerRadius = UDim.new(0, 12)
+MainCorner.Parent = MainFrame
+
+-- Gradient Background
+local Gradient = Instance.new("UIGradient")
+Gradient.Color = ColorSequence.new{
+    ColorSequenceKeypoint.new(0, Color3.fromRGB(35, 35, 50)),
+    ColorSequenceKeypoint.new(1, Color3.fromRGB(20, 20, 30))
+}
+Gradient.Rotation = 45
+Gradient.Parent = MainFrame
+
+-- Shadow Effect
+local Shadow = Instance.new("ImageLabel")
+Shadow.Name = "Shadow"
+Shadow.BackgroundTransparency = 1
+Shadow.Position = UDim2.new(0, -15, 0, -15)
+Shadow.Size = UDim2.new(1, 30, 1, 30)
+Shadow.ZIndex = 0
+Shadow.Image = "rbxasset://textures/ui/GuiImagePlaceholder.png"
+Shadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
+Shadow.ImageTransparency = 0.5
+Shadow.ScaleType = Enum.ScaleType.Slice
+Shadow.SliceCenter = Rect.new(10, 10, 10, 10)
+Shadow.Parent = MainFrame
+
+-- Header
+local Header = Instance.new("Frame")
+Header.Name = "Header"
+Header.Size = UDim2.new(1, 0, 0, 50)
+Header.BackgroundColor3 = Color3.fromRGB(30, 30, 45)
+Header.BorderSizePixel = 0
+Header.Parent = MainFrame
+
+local HeaderCorner = Instance.new("UICorner")
+HeaderCorner.CornerRadius = UDim.new(0, 12)
+HeaderCorner.Parent = Header
+
+-- Title
+local Title = Instance.new("TextLabel")
+Title.Name = "Title"
+Title.Size = UDim2.new(1, -60, 1, 0)
+Title.Position = UDim2.new(0, 15, 0, 0)
+Title.BackgroundTransparency = 1
+Title.Text = "🍬 INF Candy"
+Title.Font = Enum.Font.GothamBold
+Title.TextSize = 20
+Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title.TextXAlignment = Enum.TextXAlignment.Left
+Title.Parent = Header
+
+-- Close Button
+local CloseButton = Instance.new("TextButton")
+CloseButton.Name = "CloseButton"
+CloseButton.Size = UDim2.new(0, 35, 0, 35)
+CloseButton.Position = UDim2.new(1, -45, 0.5, -17.5)
+CloseButton.BackgroundColor3 = Color3.fromRGB(220, 50, 50)
+CloseButton.Text = "✕"
+CloseButton.Font = Enum.Font.GothamBold
+CloseButton.TextSize = 18
+CloseButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+CloseButton.Parent = Header
+
+local CloseCorner = Instance.new("UICorner")
+CloseCorner.CornerRadius = UDim.new(0, 8)
+CloseCorner.Parent = CloseButton
+
+-- Content Frame
+local Content = Instance.new("Frame")
+Content.Name = "Content"
+Content.Size = UDim2.new(1, -30, 1, -80)
+Content.Position = UDim2.new(0, 15, 0, 60)
+Content.BackgroundTransparency = 1
+Content.Parent = MainFrame
+
+-- Toggle Button
+local ToggleButton = Instance.new("TextButton")
+ToggleButton.Name = "ToggleButton"
+ToggleButton.Size = UDim2.new(1, 0, 0, 50)
+ToggleButton.Position = UDim2.new(0, 0, 0, 0)
+ToggleButton.BackgroundColor3 = Color3.fromRGB(220, 50, 50)
+ToggleButton.Text = ""
+ToggleButton.Parent = Content
+
+local ToggleCorner = Instance.new("UICorner")
+ToggleCorner.CornerRadius = UDim.new(0, 10)
+ToggleCorner.Parent = ToggleButton
+
+local ToggleLabel = Instance.new("TextLabel")
+ToggleLabel.Name = "Label"
+ToggleLabel.Size = UDim2.new(1, -20, 1, 0)
+ToggleLabel.Position = UDim2.new(0, 10, 0, 0)
+ToggleLabel.BackgroundTransparency = 1
+ToggleLabel.Text = "❌ Auto Disabled"
+ToggleLabel.Font = Enum.Font.GothamBold
+ToggleLabel.TextSize = 16
+ToggleLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+ToggleLabel.TextXAlignment = Enum.TextXAlignment.Left
+ToggleLabel.Parent = ToggleButton
+
+-- Speed Control Frame
+local SpeedFrame = Instance.new("Frame")
+SpeedFrame.Name = "SpeedFrame"
+SpeedFrame.Size = UDim2.new(1, 0, 0, 60)
+SpeedFrame.Position = UDim2.new(0, 0, 0, 65)
+SpeedFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 45)
+SpeedFrame.Parent = Content
+
+local SpeedCorner = Instance.new("UICorner")
+SpeedCorner.CornerRadius = UDim.new(0, 10)
+SpeedCorner.Parent = SpeedFrame
+
+local SpeedLabel = Instance.new("TextLabel")
+SpeedLabel.Name = "SpeedLabel"
+SpeedLabel.Size = UDim2.new(1, -20, 0, 20)
+SpeedLabel.Position = UDim2.new(0, 10, 0, 8)
+SpeedLabel.BackgroundTransparency = 1
+SpeedLabel.Text = "⚡ Speed (seconds):"
+SpeedLabel.Font = Enum.Font.GothamBold
+SpeedLabel.TextSize = 13
+SpeedLabel.TextColor3 = Color3.fromRGB(200, 200, 200)
+SpeedLabel.TextXAlignment = Enum.TextXAlignment.Left
+SpeedLabel.Parent = SpeedFrame
+
+-- Speed TextBox
+local SpeedBox = Instance.new("TextBox")
+SpeedBox.Name = "SpeedBox"
+SpeedBox.Size = UDim2.new(1, -20, 0, 25)
+SpeedBox.Position = UDim2.new(0, 10, 0, 30)
+SpeedBox.BackgroundColor3 = Color3.fromRGB(40, 40, 55)
+SpeedBox.Text = "0.05"
+SpeedBox.PlaceholderText = "Enter speed (e.g., 0.05)"
+SpeedBox.Font = Enum.Font.Gotham
+SpeedBox.TextSize = 14
+SpeedBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+SpeedBox.PlaceholderColor3 = Color3.fromRGB(150, 150, 150)
+SpeedBox.ClearTextOnFocus = false
+SpeedBox.Parent = SpeedFrame
+
+local SpeedBoxCorner = Instance.new("UICorner")
+SpeedBoxCorner.CornerRadius = UDim.new(0, 6)
+SpeedBoxCorner.Parent = SpeedBox
+
+-- Status Frame
+local StatusFrame = Instance.new("Frame")
+StatusFrame.Name = "StatusFrame"
+StatusFrame.Size = UDim2.new(1, 0, 0, 65)
+StatusFrame.Position = UDim2.new(0, 0, 0, 140)
+StatusFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 45)
+StatusFrame.Parent = Content
+
+local StatusCorner = Instance.new("UICorner")
+StatusCorner.CornerRadius = UDim.new(0, 10)
+StatusCorner.Parent = StatusFrame
+
+-- Targets Count
+local TargetsLabel = Instance.new("TextLabel")
+TargetsLabel.Name = "TargetsLabel"
+TargetsLabel.Size = UDim2.new(1, -20, 0, 20)
+TargetsLabel.Position = UDim2.new(0, 10, 0, 10)
+TargetsLabel.BackgroundTransparency = 1
+TargetsLabel.Text = "🎯 Targets Found: 0"
+TargetsLabel.Font = Enum.Font.Gotham
+TargetsLabel.TextSize = 13
+TargetsLabel.TextColor3 = Color3.fromRGB(200, 200, 200)
+TargetsLabel.TextXAlignment = Enum.TextXAlignment.Left
+TargetsLabel.Parent = StatusFrame
+
+-- Status Label
+local StatusLabel = Instance.new("TextLabel")
+StatusLabel.Name = "StatusLabel"
+StatusLabel.Size = UDim2.new(1, -20, 0, 20)
+StatusLabel.Position = UDim2.new(0, 10, 0, 35)
+StatusLabel.BackgroundTransparency = 1
+StatusLabel.Text = "⏸️ Status: Idle"
+StatusLabel.Font = Enum.Font.Gotham
+StatusLabel.TextSize = 13
+StatusLabel.TextColor3 = Color3.fromRGB(200, 200, 200)
+StatusLabel.TextXAlignment = Enum.TextXAlignment.Left
+StatusLabel.Parent = StatusFrame
+
+-- Credit Label
+local CreditLabel = Instance.new("TextLabel")
+CreditLabel.Name = "CreditLabel"
+CreditLabel.Size = UDim2.new(1, -20, 0, 20)
+CreditLabel.Position = UDim2.new(0, 10, 1, -25)
+CreditLabel.BackgroundTransparency = 1
+CreditLabel.Text = "Created by Rey_Script (UdinPeot)"
+CreditLabel.Font = Enum.Font.GothamMedium
+CreditLabel.TextSize = 11
+CreditLabel.TextColor3 = Color3.fromRGB(120, 120, 140)
+CreditLabel.TextXAlignment = Enum.TextXAlignment.Center
+CreditLabel.Parent = MainFrame
+
+-- Fungsi untuk animasi button
+local function animateButton(button, hover)
+    local tween = TweenService:Create(button, TweenInfo.new(0.2), {
+        Size = hover and button.Size + UDim2.new(0, 0, 0, 3) or button.Size - UDim2.new(0, 0, 0, 3)
+    })
+    tween:Play()
+end
+
+-- Event untuk Close Button
+CloseButton.MouseButton1Click:Connect(function()
+    ScreenGui:Destroy()
+    _G.Auto = false
+end)
+
+CloseButton.MouseEnter:Connect(function()
+    CloseButton.BackgroundColor3 = Color3.fromRGB(255, 70, 70)
+end)
+
+CloseButton.MouseLeave:Connect(function()
+    CloseButton.BackgroundColor3 = Color3.fromRGB(220, 50, 50)
+end)
+
+-- Event untuk Toggle Button
+ToggleButton.MouseButton1Click:Connect(function()
+    _G.Auto = not _G.Auto
+    
+    if _G.Auto then
+        ToggleButton.BackgroundColor3 = Color3.fromRGB(50, 220, 100)
+        ToggleLabel.Text = "✅ Auto Enabled"
+        StatusLabel.Text = "▶️ Status: Running"
+    else
+        ToggleButton.BackgroundColor3 = Color3.fromRGB(220, 50, 50)
+        ToggleLabel.Text = "❌ Auto Disabled"
+        StatusLabel.Text = "⏸️ Status: Stopped"
+    end
+end)
+
+ToggleButton.MouseEnter:Connect(function()
+    animateButton(ToggleButton, true)
+end)
+
+ToggleButton.MouseLeave:Connect(function()
+    animateButton(ToggleButton, false)
+end)
+
+-- Event untuk Speed TextBox
+SpeedBox.FocusLost:Connect(function(enterPressed)
+    local newSpeed = tonumber(SpeedBox.Text)
+    
+    if newSpeed and newSpeed > 0 then
+        _G.Speed = newSpeed
+        SpeedBox.TextColor3 = Color3.fromRGB(100, 255, 100)
+        wait(0.3)
+        SpeedBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+    else
+        SpeedBox.Text = tostring(_G.Speed)
+        SpeedBox.TextColor3 = Color3.fromRGB(255, 100, 100)
+        wait(0.3)
+        SpeedBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+    end
+end)
+
+-- Script Auto Shooting Gallery
+local Event = ReplicatedStorage.RemoteEvents.CarnivalCompleteShootingGallery
+
+local function findTargets(parent, depth)
+    if depth > 3 then return {} end
+    
+    local targets = {}
+    
+    for _, child in ipairs(parent:GetChildren()) do
+        if child:IsA("BasePart") then
+            table.insert(targets, child)
+        end
+        
+        for _, subTarget in ipairs(findTargets(child, depth + 1)) do
+            table.insert(targets, subTarget)
+        end
+    end
+    
+    return targets
+end
+
+spawn(function()
+    while task.wait(3) do
+        if not _G.Auto then 
+            task.wait(1)
+            continue 
+        end
+        
+        local targets = {}
+        local areas = {
+            workspace.Map,
+            workspace.Items, 
+            workspace.Characters
+        }
+        
+        for _, area in ipairs(areas) do
+            for _, target in ipairs(findTargets(area, 0)) do
+                table.insert(targets, target)
+            end
+        end
+        
+        -- Update target count
+        TargetsLabel.Text = "🎯 Targets Found: " .. #targets
+        
+        for index, target in ipairs(targets) do
+            if not _G.Auto then break end
+            
+            local success = pcall(function()
+                Event:FireServer(target)
+            end)
+            
+            StatusLabel.Text = "▶️ Status: Shooting (" .. index .. "/" .. #targets .. ")"
+            task.wait(_G.Speed) -- Menggunakan speed yang bisa diatur
+        end
+        
+        if _G.Auto then
+            StatusLabel.Text = "⏳ Status: Waiting..."
+        end
+    end
+end)
+
+print("🍬 INF Candy GUI Loaded!")
+
+-- Loading Screen dengan Credit
+local LoadingScreen = Instance.new("ScreenGui")
+LoadingScreen.Name = "LoadingScreen"
+LoadingScreen.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+LoadingScreen.Parent = PlayerGui
+
+local LoadingFrame = Instance.new("Frame")
+LoadingFrame.Size = UDim2.new(1, 0, 1, 0)
+LoadingFrame.BackgroundColor3 = Color3.fromRGB(15, 15, 25)
+LoadingFrame.BorderSizePixel = 0
+LoadingFrame.Parent = LoadingScreen
+
+local LoadingText = Instance.new("TextLabel")
+LoadingText.Size = UDim2.new(0, 400, 0, 100)
+LoadingText.Position = UDim2.new(0.5, -200, 0.5, -50)
+LoadingText.BackgroundTransparency = 1
+LoadingText.Text = "Created By UdinPeot (Rey_Script)"
+LoadingText.Font = Enum.Font.GothamBold
+LoadingText.TextSize = 28
+LoadingText.TextColor3 = Color3.fromRGB(100, 200, 255)
+LoadingText.TextTransparency = 0
+LoadingText.Parent = LoadingFrame
+
+-- Animasi fade in dan fade out
+local fadeIn = TweenService:Create(LoadingText, TweenInfo.new(0.5), {
+    TextTransparency = 0
+})
+
+local fadeOut = TweenService:Create(LoadingText, TweenInfo.new(0.5), {
+    TextTransparency = 1
+})
+
+local frameFadeOut = TweenService:Create(LoadingFrame, TweenInfo.new(0.5), {
+    BackgroundTransparency = 1
+})
+
+fadeIn:Play()
+fadeIn.Completed:Wait()
+task.wait(2)
+fadeOut:Play()
+frameFadeOut:Play()
+fadeOut.Completed:Wait()
+LoadingScreen:Destroy()
+
+print("✅ Script loaded successfully!")
